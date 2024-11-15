@@ -24,8 +24,9 @@ Most if not all datasets are not instruct ready, additional steps are needed to 
 | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | 
 | [mOSCAR](https://huggingface.co/datasets/oscar-corpus/mOSCAR/viewer/ron_Latn)                                 | Multilingual OSCAR dataset, needs further processing. See additional datasets on their HF space. |
 | [faur-ai/fulg](https://huggingface.co/datasets/faur-ai/fulg)                                                  | CommonCrawl filtered and processed for Romanian |
+| [mC4 RO](https://huggingface.co/datasets/allenai/c4/viewer/ro)                                                | CommonCrawl the C4 version [Docs](https://github.com/allenai/c4-documentation)
 | [readerbench/ro-human-machine-60k](https://huggingface.co/datasets/readerbench/ro-human-machine-60k)          | Needs further processing for instruct fine-tuning an LLM | 
 | [CC-100](https://data.statmt.org/cc-100/)                                                                     | Attempt to recreate the dataset used for training XLM-R. This corpus comprises of monolingual data for 100+ languages |
-| 
+| [Wikipedia RO](https://huggingface.co/datasets/wikimedia/wikipedia/viewer/20231101.ro)                        | Wikipedia, the Romanian part |
 
 ### Tools
