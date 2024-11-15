@@ -28,5 +28,11 @@ Most if not all datasets are not instruct ready, additional steps are needed to 
 | [readerbench/ro-human-machine-60k](https://huggingface.co/datasets/readerbench/ro-human-machine-60k)          | Needs further processing for instruct fine-tuning an LLM | 
 | [CC-100](https://data.statmt.org/cc-100/)                                                                     | Attempt to recreate the dataset used for training XLM-R. This corpus comprises of monolingual data for 100+ languages |
 | [Wikipedia RO](https://huggingface.co/datasets/wikimedia/wikipedia/viewer/20231101.ro)                        | Wikipedia, the Romanian part |
+| [RoMath](https://huggingface.co/datasets/cosmadrian/romath)                                                   | I did not had the time to check it's value. A Mathematical Reasoning Benchmarking Suite from Descriptions in 🇷🇴 Romanian 🇷🇴 |
 
 ### Tools
+| Link                                                         | Comments                                                                                        |
+| ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| [Trafilatura](https://trafilatura.readthedocs.io/en/latest/) | Good for extracting text from web                                                               |
+| [Datatrove](https://github.com/huggingface/datatrove)        | Datatrove and examples with the Fineweb pipeline, can be addapted for Ro                        |
+
