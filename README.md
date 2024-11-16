@@ -10,7 +10,7 @@
 ### Links
 | Links                         |  Comments                      | Description                                                                                                               | 
 | ----------------------------- | -------------------------------| ------------------------------------------------------------------------------------------------------------------------- |
-| [OpenLLM-RO](https://huggingface.co/OpenLLM-Ro) / [Github](https://github.com/OpenLLM-Ro) | | Brings together the Romanian community that builds open Romanian models and to collect these models in a single place.|
+| [OpenLLM-RO](https://huggingface.co/OpenLLM-Ro) / [Github](https://github.com/OpenLLM-Ro) | Most datsets are translated which leads to lower quality models | Romanian community that builds open Romanian models and tries to collect these models in a single place. |
 | [FulG](https://huggingface.co/datasets/faur-ai/fulg) / [arXiv](https://arxiv.org/abs/2407.13657) | Used CCNet for processing | CommonCrawl filtered and processed for Romanian language |
 | [FineWeb](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1) / [Blog](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)| Good documentation | CommonCrawl filtering procedure and dataset for English, it can be adapted for Romanian by using datatrove |
 | [OSCAR](https://oscar-project.github.io/documentation/versions/oscar-2301/) | Good CommonCrawl processing | CommonCrawl filtered and processed dataset available |
