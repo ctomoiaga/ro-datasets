@@ -14,7 +14,7 @@
 | [FulG](https://huggingface.co/datasets/faur-ai/fulg) / [arXiv](https://arxiv.org/abs/2407.13657) | Used CCNet for processing | CommonCrawl filtered and processed for Romanian language |
 | [FineWeb](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1) / [Blog](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)| Good documentation | CommonCrawl filtering procedure and dataset for English, it can be adapted for Romanian by using datatrove |
 | [OSCAR](https://oscar-project.github.io/documentation/versions/oscar-2301/) | Good CommonCrawl processing | CommonCrawl filtered and processed dataset available |
-| [Readerbench](https://huggingface.co/readerbench) | Good space for Romanian datasets | Training classifiers and using already trained one |
+| [Readerbench](https://huggingface.co/readerbench) | Collection of romanian datasets and models | Training classifiers and using already trained one |
 | [CommonCrawl Statistics](https://commoncrawl.github.io/cc-crawl-statistics/plots/tld/latestcrawl.html) | Statistics of CommonCrawl |
 
 ### Datasets
