@@ -23,7 +23,7 @@ Most if not all datasets are not instruct ready, additional steps are needed to 
 
 | Dataset                                                                                                       | Notes                                                                             |
 | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | 
-| [OpenLLM-RO](https://huggingface.co/OpenLLM-Ro)                                                               | A lot of interesting datasets ( even if they are translations ) including fined-tuned LLMs |
+| [OpenLLM-RO](https://huggingface.co/OpenLLM-Ro)                                                               | Interesting datasets however most are translations, check datasets and trained models, they feel a bit lower quality due to poor translations |
 | [mOSCAR](https://huggingface.co/datasets/oscar-corpus/mOSCAR/viewer/ron_Latn)                                 | Multilingual OSCAR dataset, needs further processing. See additional datasets on their HF space. |
 | [faur-ai/fulg](https://huggingface.co/datasets/faur-ai/fulg)                                                  | CommonCrawl filtered and processed for Romanian |
 | [mC4 RO](https://huggingface.co/datasets/allenai/c4/viewer/ro)                                                | CommonCrawl the C4 version [Docs](https://github.com/allenai/c4-documentation)
