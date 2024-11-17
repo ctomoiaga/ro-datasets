@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 🇷🇴 RO LLM Datasets and Tools </h1>
+  <h1> 🇷🇴 RO LLMs Datasets and Tools </h1>
   <p>
     🤗 <a href="https://huggingface.co/chrisgru">Hugging Face</a> • 
   </p>
@@ -12,6 +12,7 @@
 | ----------------------------- | -------------------------------| ------------------------------------------------------------------------------------------------------------------------- |
 | [OpenLLM-RO](https://huggingface.co/OpenLLM-Ro) / [Github](https://github.com/OpenLLM-Ro) | Most datsets are translated which leads to lower quality models | Romanian community that builds open Romanian models and tries to collect these models in a single place. |
 | [FulG](https://huggingface.co/datasets/faur-ai/fulg) / [arXiv](https://arxiv.org/abs/2407.13657) | Used CCNet for processing | CommonCrawl filtered and processed for Romanian language |
+| [RoMedQa](https://arxiv.org/html/2410.04269v1) | Needs verification | RoQLlama: A Lightweight Romanian Adapted Language Model | 
 | [FineWeb](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1) / [Blog](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)| Good documentation | CommonCrawl filtering procedure and dataset for English, it can be adapted for Romanian by using datatrove |
 | [OSCAR](https://oscar-project.github.io/documentation/versions/oscar-2301/) | Good CommonCrawl processing | CommonCrawl filtered and processed dataset available |
 | [Readerbench](https://huggingface.co/readerbench) | Collection of romanian datasets and models | Training classifiers and using already trained ones |
@@ -24,6 +25,7 @@ Most if not all datasets are not instruct ready, additional steps are needed to 
 | Dataset                                                                                                       | Notes                                                                             |
 | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | 
 | [OpenLLM-RO](https://huggingface.co/OpenLLM-Ro)                                                               | Most datasets are translations, check datasets and trained models, they feel a bit lower quality due to poor translations |
+| [RoMedQa](https://huggingface.co/datasets/craciuncg/RoMedQA_v2)                                               | A dataset of single-choice questions regarding the medical field in the Romanian language. It consists of advanced biology questions used in entrance examinations in medical schools in Romania. Each question has five possible answer choices, numbered from 1 to 5, with only one correct answer. |
 | [mOSCAR](https://huggingface.co/datasets/oscar-corpus/mOSCAR/viewer/ron_Latn)                                 | Multilingual OSCAR dataset, needs further processing. See additional datasets on their HF space. |
 | [faur-ai/fulg](https://huggingface.co/datasets/faur-ai/fulg)                                                  | CommonCrawl filtered and processed for Romanian |
 | [mC4 RO](https://huggingface.co/datasets/allenai/c4/viewer/ro)                                                | CommonCrawl the C4 version [Docs](https://github.com/allenai/c4-documentation)
