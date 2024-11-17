@@ -51,4 +51,5 @@ Most if not all datasets are not instruct ready, additional steps are needed to 
 | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
 | [Trafilatura](https://trafilatura.readthedocs.io/en/latest/) | Good for extracting text from web                                                               |
 | [Datatrove](https://github.com/huggingface/datatrove)        | Datatrove and examples with the Fineweb pipeline, can be addapted for Ro                        |
+| [LLM Inference Banchmark][https://github.com/ctomoiaga/GPU-Benchmarks-on-LLM-Inference] | Really usefull benchmark on LLM inference with multiple hardware including MACs | 
 
