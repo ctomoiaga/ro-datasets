@@ -17,6 +17,7 @@
 | [OSCAR](https://oscar-project.github.io/documentation/versions/oscar-2301/) | Good CommonCrawl processing | CommonCrawl filtered and processed dataset available |
 | [Readerbench](https://huggingface.co/readerbench) | Collection of romanian datasets and models | Training classifiers and using already trained ones |
 | [CommonCrawl Statistics](https://commoncrawl.github.io/cc-crawl-statistics/plots/tld/latestcrawl.html) | Statistics of CommonCrawl |
+| [OPUS](https://opus.nlpl.eu/) | Open Parallel Corpora |
 
 ### Datasets
 Some datasets are very large and are not processed ( may contain multiple languages ). Detecting Romanian language is usually easy.
