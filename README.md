@@ -10,7 +10,7 @@
 ### Links
 | Links                         |  Comments                      | Description                                                                                                               | 
 | ----------------------------- | -------------------------------| ------------------------------------------------------------------------------------------------------------------------- |
-| [OpenLLM-RO](https://huggingface.co/OpenLLM-Ro) / [Github](https://github.com/OpenLLM-Ro) | Most datsets are translated which leads to lower quality models | Romanian community that builds open Romanian models and tries to collect these models in a single place. |
+| [OpenLLM-RO](https://huggingface.co/OpenLLM-Ro) / [Github](https://github.com/OpenLLM-Ro) / [arXiv](https://arxiv.org/abs/2406.18266)| Most datsets are translated which leads to lower quality models | Romanian community that builds open Romanian models and tries to collect these models in a single place. |
 | [FulG](https://huggingface.co/datasets/faur-ai/fulg) / [arXiv](https://arxiv.org/abs/2407.13657) | Used CCNet for processing | CommonCrawl filtered and processed for Romanian language |
 | [RoMedQa](https://arxiv.org/html/2410.04269v1) | Needs verification | RoQLlama: A Lightweight Romanian Adapted Language Model | 
 | [FineWeb](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1) / [Blog](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)| Good documentation | CommonCrawl filtering procedure and dataset for English, it can be adapted for Romanian by using datatrove |
